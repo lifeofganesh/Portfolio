@@ -21,9 +21,9 @@ const About = () => {
     <h3 className='text-white'>I am </h3>
         <TypeAnimation
         sequence={[
-          'Java developer',
+          'Software Engineer',
           "Frontend developer",
-          "Software Engineer",
+          "BackEnd Developer",
         ]}
           speed ={400}
           eraseSpeed ={60}
@@ -35,10 +35,10 @@ const About = () => {
      ></TypeAnimation>
     </h3>
        <p className='text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed'>
-       I am a software engineer with 1.8 year of experience in building scalable web applications, skilled in both frontend and backend development. 
+       I am a software engineer with 2.4 year of experience in building scalable web applications, skilled in both frontend and backend development. 
         and backend development, I specialize in the frontend developer modern technologies to create seamless user experiences and efficient solutions.
           </p>
-          <a href='https://docs.google.com/document/d/1TXrZYzaa7BvvLyzeEasTUIQwzIOwT3aN/edit?usp=drive_link&ouid=113610135059011428984&rtpof=true&sd=true'
+          <a href='Blank'
            target='_blank'
            rel='noopener noreferrer'
            className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold  transition duration-300 transform hover:curser'
@@ -59,7 +59,7 @@ const About = () => {
           transitionSpeed={1000}
           gyroscope={true}
           >
-          <img src={profileImage }
+          <img src={profileImage}
            alt='Ganesh shelake'
           className ='w-full h-full rounded-full object-cover drop-shadow-[(0_10px_20px_rgba[130,69,236,0,.5)]'/>
           </Tilt>
