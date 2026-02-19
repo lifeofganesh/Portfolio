@@ -119,7 +119,7 @@ export const SkillsInfo = [
       img: webverseLogo,
       role: "Frontend software Engineer",
       company: "Icertis software solutions pvt ltd pune",
-      date: "Jane 2024 - Present",
+      date: "June-2023 - Present",
       desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
       skills: [
         "HTML",
@@ -139,7 +139,7 @@ export const SkillsInfo = [
       img: agcLogo,
       role: "Fullstack Engineer",
       company: "Icertis software solutions pvt ltd pune",
-      date: "jane-2024 - Present",
+      date: "June-2023 - Present",
       desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
       skills: [
         "ReactJS",
@@ -155,8 +155,8 @@ export const SkillsInfo = [
       id: 2,
       img: newtonschoolLogo,
       role: "Frontend Intern",
-      company: "Icertis solutions",
-      date: "Jane-2024 - jully-2024",
+      company: "Icertis software solutions pvt ltd Pune",
+      date: "June-2023 - Present",
       desc: "Worked as a Frontend Developer Intern, designing and implementing scalable UI components and responsive websites using HTML, CSS, JavaScript, Bootstrap, and Material UI. Collaborated with the design team to translate wireframes and prototypes from Figma into interactive, user-friendly web pages.",
       skills: [
         "HTML",
