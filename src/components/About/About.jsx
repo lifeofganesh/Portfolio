@@ -38,7 +38,7 @@ const About = () => {
        I am a software engineer with 3 year of experience in building scalable web applications, skilled in both frontend and backend development. 
         and backend development, I specialize in the frontend developer modern technologies to create seamless user experiences and efficient solutions.
           </p>
-          <a href='Blank'
+          <a href='https://drive.google.com/file/d/1GrTPIGjsXdgqcbpZzl6ZFWlermfpg6Ma/view?usp=drive_link'
            target='_blank'
            rel='noopener noreferrer'
            className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold  transition duration-300 transform hover:curser'
