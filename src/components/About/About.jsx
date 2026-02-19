@@ -35,7 +35,7 @@ const About = () => {
      ></TypeAnimation>
     </h3>
        <p className='text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed'>
-       I am a software engineer with 2.4 year of experience in building scalable web applications, skilled in both frontend and backend development. 
+       I am a software engineer with 3 year of experience in building scalable web applications, skilled in both frontend and backend development. 
         and backend development, I specialize in the frontend developer modern technologies to create seamless user experiences and efficient solutions.
           </p>
           <a href='Blank'
